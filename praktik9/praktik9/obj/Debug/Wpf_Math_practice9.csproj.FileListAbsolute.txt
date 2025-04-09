@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\bin\Debug\Wpf_Math_practice9.exe.config
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\bin\Debug\Wpf_Math_practice9.exe
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\bin\Debug\Wpf_Math_practice9.pdb
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9_MarkupCompile.cache
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9_MarkupCompile.lref
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\MainWindow.baml
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9.g.resources
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9.Properties.Resources.resources
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9.exe
+C:\Users\Admin\Downloads\Wpf_Math_practice9-master\Wpf_Math_practice9\obj\Debug\Wpf_Math_practice9.pdb
